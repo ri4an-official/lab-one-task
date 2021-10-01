@@ -1,2 +1,2 @@
 # LabOne Task
-[!screen](./src/common/assets/lab-one-task.png)
+![screen](./src/common/assets/lab-one-task.png)
